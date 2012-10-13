@@ -1,0 +1,9 @@
+
+FORM.wide_form FIELDSET.tabs DT.texto,
+FORM.wide_form FIELDSET.tabs DD.texto{visibility:hidden;position:absolute;}
+
+#tabs{margin-bottom:15px;border:solid transparent 1px;}
+#tabs A{outline:none;background:none;color:#000;float:left;text-align:center;padding:5px 10px;margin-right:5px;text-decoration: none;-moz-border-radius:4px;-webkit-border-radius:4px;}
+#tabs A.active{background:#fff;color:#006839;}
+#tabs A.active:hover{background:#fff;}
+#tabs A:hover{background:#eee}
